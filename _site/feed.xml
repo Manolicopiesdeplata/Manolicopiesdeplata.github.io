@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-30T09:06:15+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2025/01/30/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-01-30T08:52:28+01:00</published><updated>2025-01-30T08:52:28+01:00</updated><id>http://localhost:4000/jekyll/update/2025/01/30/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/01/30/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-05T10:02:31+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Practica Jekyll</title><subtitle>Hola buenas</subtitle><entry><title type="html">curriculum</title><link href="http://localhost:4000/jekyll/update/2025/02/05/curriculum.html" rel="alternate" type="text/html" title="curriculum" /><published>2025-02-05T00:00:00+01:00</published><updated>2025-02-05T00:00:00+01:00</updated><id>http://localhost:4000/jekyll/update/2025/02/05/curriculum</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/02/05/curriculum.html"><![CDATA[<h1 id="currículum-vitae">Currículum Vitae</h1>
+<blockquote>
+  <p>Manuel López Medina</p>
+</blockquote>
+
+<p><img src="https://pbs.twimg.com/media/ENTDCMPWsAAxSn0.jpg" alt="Imagen" /></p>
+<h3 id="sobre-mí">Sobre mí</h3>
+
+<ul>
+  <li><strong>Edad</strong>: 19 años</li>
+  <li><strong>Localidad</strong>: Cieza / Murcia</li>
+  <li>
+    <h2 id="sexo-m"><strong>Sexo</strong>: M</h2>
+    <p>Experto en html y css con 20 años de experiencia en el campo de programacion.</p>
+    <h2 id="experiencia-profesional">Experiencia profesional</h2>
+    <p>Grado medio de <strong><em>sistemas operativos en red</em></strong> y prácticas en una <strong><em>tienda de informática</em></strong>.</p>
+  </li>
+</ul>
+
+<hr />
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;html&gt;
+
+&lt;head&gt;&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;h1&gt;no se&lt;/h1&gt;
+&lt;p&gt;esta es toda mi experiencia en html&lt;/p&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+</code></pre></div></div>
+<h2 id="educación">Educación</h2>
+<ul>
+  <li>infantil</li>
+  <li>primaria</li>
+  <li>la E.S.O</li>
+  <li>Grado Medio de informática</li>
+</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Currículum Vitae Manuel López Medina]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2025/01/30/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-01-30T08:52:28+01:00</published><updated>2025-01-30T08:52:28+01:00</updated><id>http://localhost:4000/jekyll/update/2025/01/30/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/01/30/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
